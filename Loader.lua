@@ -33,8 +33,8 @@ end
 
 -- แสดง Notification พร้อมรูป
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Kawnew X Halloween 🎃",
-    Text = "โหลดรูปเสร็จแล้ว!",
+    Title = "Kawnew Halloween 🎃",
+    Text = "Optimize loading..",
     Icon = getAsset(fullPath),
     Duration = 3
 })
