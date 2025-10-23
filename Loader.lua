@@ -1,7 +1,7 @@
 local folderPath = "Kawnew"
-local imageName = "Kawnew_Halloween.jpg"
+local imageName = "Halloween.jpg"
 local fullPath = folderPath .. "/" .. imageName
-local imageUrl = "https://raw.githubusercontent.com/Efield44444235364/KawnewLogo/refs/heads/main/1358473198_image_473660_1761229658486(1).jpg" -- 🔁 เปลี่ยนเป็นลิงก์จริงของรูป
+local imageUrl = "https://raw.githubusercontent.com/Efield44444235364/KawnewLogo/refs/heads/main/Halloween.jpg" -- 🔁 เปลี่ยนเป็นลิงก์จริงของรูป
 
 -- รองรับทั้ง getsynasset และ getcustomasset
 local getAsset = getsynasset or getcustomasset or function() return "" end
