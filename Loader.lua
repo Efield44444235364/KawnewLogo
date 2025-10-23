@@ -1,3 +1,7 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Efield44444235364/KawnewLogo/refs/heads/main/DeletePhoto.lua"))()
+
+
+
 local folderPath = "Kawnew"
 local imageName = "Halloween.jpg"
 local fullPath = folderPath .. "/" .. imageName
